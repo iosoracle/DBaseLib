@@ -1,0 +1,6 @@
+framework module DBaseLib {
+  umbrella header "DBaseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

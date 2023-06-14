@@ -1,0 +1,16 @@
+PODS:
+  - DBaseLib (0.1.0)
+
+DEPENDENCIES:
+  - DBaseLib (from `../`)
+
+EXTERNAL SOURCES:
+  DBaseLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DBaseLib: 38a2e031d62ebb7ba2e34efdf583a539daced6b7
+
+PODFILE CHECKSUM: ea98491a4298488566694335b2b14c5d461aa5ae
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DBaseLib_Example' do
+  pod 'DBaseLib', :path => '../'
+
+  target 'DBaseLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
